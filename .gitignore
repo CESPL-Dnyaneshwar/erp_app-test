@@ -1,0 +1,4 @@
+node_modules/
+21_backend.zip
+.env.*
+!.env.example
